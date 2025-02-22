@@ -40,7 +40,7 @@
 | ![Arduino](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg) Arduino  | Desarrollo de hardware |
 | ![GitLab](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg) GitLab  | Control de versiones |
 | ![IntelliJ](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg) IntelliJ IDEA  | Desarrollo en Java |
-| ![SolidWorks](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg) SolidWorks  | Diseño CAD |
+| ![SolidWorks](https://img.icons8.com/color/110/solidworks.png) SolidWorks  | Diseño CAD |
 | ![LabVIEW](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg) LabVIEW  | Automatización y pruebas |
 
 ---
