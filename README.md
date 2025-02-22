@@ -1,12 +1,12 @@
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4E03AQFXAuQO-fkDwQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1687203124045?e=1745452800&v=beta&t=OUxbJcdvd4B7dOFG4CUQ3hfM_vyRwlOBbGBz6rJwde4"  />
+<img align="right" height="280" src="https://media.licdn.com/dms/image/v2/D4E03AQFXAuQO-fkDwQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1687203124045?e=1745452800&v=beta&t=OUxbJcdvd4B7dOFG4CUQ3hfM_vyRwlOBbGBz6rJwde4"  />
 
 ###
 
-<h1 align="center">Juan Camilo Escobar Gamboa</h1>
+<h1 align="left">Juan Camilo Escobar Gamboa</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/juan-camilo-escobar-gamboa-b20b7027b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">💼 Experiencie</p>
+<h3 align="left">💼 Experience</h3>
 
 ###
 
@@ -54,15 +54,15 @@
 
 ###
 
-<p align="left">📚 Educación</p>
+<h3 align="left">📚 Education</h3>
 
 ###
 
-<p align="left">🎓 Ingeniería Mecatrónica - TEINCO (2019 - 2023)  <br>🎓 Desarrollo de Software - JALA University (2024 - Actual)  <br>📜 Diplomado en Automatización Industrial</p>
+<p align="left">🎓 Ingeniería Mecatrónica - TEINCO (2019 - 2023)  <br>🎓 Desarrollo de Software - JALA University (2024 - Actual)  <br>📜 Diplomado en Automatización Industrial - EN PROCESO</p>
 
 ###
 
-<p align="left">📬 Contáctame</p>
+<h3 align="left">📬 Contact me</h3>
 
 ###
 
